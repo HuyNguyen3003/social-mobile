@@ -1,2 +1,0 @@
-# social-mobile
-react-native
